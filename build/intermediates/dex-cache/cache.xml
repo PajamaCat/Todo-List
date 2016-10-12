@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jiafang_jiang/Todo-List/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/jiafang_jiang/Todo-List/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0e345df52d23ce86e96d523d87ceeb4ca52da53c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiafang_jiang/Todo-List/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/jiafang_jiang/Todo-List/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_7a37752ecfaa02a91e3fcf3b2d162da99c9316aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiafang_jiang/Todo-List/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/jiafang_jiang/Todo-List/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0d468eb349f7fdf7173782c564c629825d4f6c73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiafang_jiang/Todo-List/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/jiafang_jiang/Todo-List/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_bf3834a5d088bbb990fe42f659b73cf01afc80ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiafang_jiang/Todo-List/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/jiafang_jiang/Todo-List/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_a6c5696b355ad0c9d79853a722d758e075cb4897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiafang_jiang/Todo-List/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/jiafang_jiang/Todo-List/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.1.0_1c2ed6dac965ffc3069951cdacb788d70893b1a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiafang_jiang/Todo-List/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/jiafang_jiang/Todo-List/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_5568010a9c79aa98ad9f659d1d792351c3c74752.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiafang_jiang/Todo-List/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/jiafang_jiang/Todo-List/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_9789d0cc746086687b60be4da25d672e825abde8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiafang_jiang/Todo-List/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/jiafang_jiang/Todo-List/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_139c2098e60e46005225850c9ee648d180e8305e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiafang_jiang/Todo-List/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/jiafang_jiang/Todo-List/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_bfa19d66095c406376ad0cffcd2bdcc7e35c4216.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiafang_jiang/Todo-List/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/jiafang_jiang/Todo-List/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_28097078015c0f6be9f3eba6303fb9c7864d3284.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiafang_jiang/Todo-List/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/jiafang_jiang/Todo-List/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_52246b33ea2830c3a376861bb900c8100035e750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/jiafang_jiang/Todo-List/app/build/intermediates/pre-dexed/debug/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiafang_jiang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/jiafang_jiang/Todo-List/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_e05ac3e3534b5a11f10f3260e32b2cffe789f561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiafang_jiang/Todo-List/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/jiafang_jiang/Todo-List/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.1.0_ddbd4169011c12f50a45f9ef7f645420d3e9f0b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiafang_jiang/Todo-List/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/jiafang_jiang/Todo-List/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_eaf7071959fd3092230017b9d9702b51456227a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiafang_jiang/Todo-List/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/jiafang_jiang/Todo-List/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_580b434bbb4bab9a18714008ea6fc823dbc328ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiafang_jiang/Todo-List/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/jiafang_jiang/Todo-List/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_cca8c4b99d30dabf259cd7b3f35da25bdc16cbd9.jar" />
+    </item>
+
+</items>
